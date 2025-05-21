@@ -1,0 +1,2 @@
+# tanamanpadi
+Aplikasi Machine Learning 
